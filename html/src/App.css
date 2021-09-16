@@ -1,0 +1,100 @@
+
+.header {
+  float:center;
+  text-align:center;
+  color: blueviolet;
+}
+.container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 120px -260px;
+   padding: 5px;
+   position: absolute;
+  overflow: auto;
+  right: 30%;
+  left: 20%;
+  top: 0;
+  bottom: 60px;
+  background:rgb(240, 195, 211);;
+  height:40%;
+  width: 50%;
+}
+      .container1 {
+  border: 1px solid #ccc;
+   border-radius: 5px;
+  margin: 120px -100px ;
+   padding: 4px;
+   position: absolute;
+  overflow: auto;
+  right: 30%;
+  left: 60%;
+  top: 0;
+  bottom: 30px;
+  background:rgb(240, 195, 211);;
+
+  height:40%;
+  width:50%;
+}
+.container2 {
+          
+          border: 1px solid #ccc;
+            border-radius: 5px;
+           margin: 140px 15px;
+           padding: 4px;
+         overflow: auto;
+           right:0%;
+           left: 60%;
+          top: 0;
+          bottom: 10px;
+           background:rgb(240, 195, 211);;
+            width: 98%;
+           height:280px;
+  
+}
+.dropdown{
+       position:relative;
+       margin-bottom: 10px;
+       margin-top: 0px;
+       float:right;
+       
+       }
+
+       .btn  {
+            margin:10px;
+           background-color:skyblue;
+           float:right;
+           align-items: right;
+           }
+
+
+           .Pie {
+             width: 250px;
+             height: 60px;
+           }
+
+           .Data {
+             float: right;
+             
+           }
+
+           .graph {
+             width: 500px;
+           }
+
+           table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            }
+             
+            td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+            }
+             
+            tr:nth-child(even) {
+            background-color: #dddddd;
+            }
+
+       
